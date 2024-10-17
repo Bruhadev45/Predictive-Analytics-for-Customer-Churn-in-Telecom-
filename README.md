@@ -1,7 +1,3 @@
-Here's a sample **README** file and a brief description for your **"Predictive Analytics for Customer Churn in Telecom"** project:
-
----
-
 # Predictive Analytics for Customer Churn in Telecom
 
 This project focuses on applying predictive analytics techniques to forecast customer churn in the telecom industry. By utilizing machine learning models and exploratory data analysis, the system identifies key factors that lead to customer churn and predicts which customers are at risk of leaving the service.
@@ -65,5 +61,8 @@ Make sure you have the following Python libraries installed before running the p
 ## Author
 
 This project was created by Bruhadev. Feel free to reach out if you have any questions or suggestions.
+
+GitHub Notebook: [Predictive-Analytics-for-Customer-Churn-in-Telecom]([https://nbviewer.org/github/Bruhadev45/Anime-Recommendation-System/blob/main/With%20GUI.ipynb](https://nbviewer.org/github/Bruhadev45/Predictive-Analytics-for-Customer-Churn-in-Telecom-/blob/main/Telecom_Churn_Prediction.ipynb))
+
 
 ---
