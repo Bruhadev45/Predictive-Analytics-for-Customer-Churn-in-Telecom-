@@ -62,7 +62,7 @@ Make sure you have the following Python libraries installed before running the p
 
 This project was created by Bruhadev. Feel free to reach out if you have any questions or suggestions.
 
-GitHub Notebook: [Predictive-Analytics-for-Customer-Churn-in-Telecom]([https://nbviewer.org/github/Bruhadev45/Predictive-Analytics-for-Customer-Churn-in-Telecom-/blob/main/Telecom_Churn_Prediction.ipynb])
+GitHub Notebook: [Predictive-Analytics-for-Customer-Churn-in-Telecom](https://nbviewer.org/github/Bruhadev45/Predictive-Analytics-for-Customer-Churn-in-Telecom-/blob/main/Telecom_Churn_Prediction.ipynb)
 
 
 ---
